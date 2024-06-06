@@ -10,7 +10,6 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=8.0.2 <8.3.0",
         "getkirby/cms": "^3.9",
         "twig/twig": "^3.0"
     },
