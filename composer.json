@@ -10,7 +10,7 @@
     ],
     "license": "MIT",
     "require": {
-        "getkirby/cms": "^3.9",
+        "getkirby/cms": "^4.0",
         "twig/twig": "^3.0"
     },
     "require-dev": {
