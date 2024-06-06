@@ -28,4 +28,7 @@
           "@php -S localhost:8008 kirby/router.php"
         ]
     }
+    {
+    "minimum-stability": "dev"
+    }
 }
